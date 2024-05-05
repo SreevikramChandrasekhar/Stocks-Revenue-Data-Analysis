@@ -1,1 +1,1 @@
-# Stocks-Revenue-Data-Analysis
+Analyzing Historical Stocks & Revenue Data
